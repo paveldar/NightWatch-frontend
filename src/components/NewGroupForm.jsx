@@ -50,7 +50,7 @@ const NewGroupForm = ({ createGroup }) => {
               className="form-control-lg border-0"
               type="text"
               name="names"
-              placeholder="comma-separated (e.g. CJ, Ian)"
+              placeholder="comma-separated"
               maxLength="100"
               required
               value={names}

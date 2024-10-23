@@ -43,7 +43,8 @@ nav {
   align-self: flex-start;
   font-size: 0.8rem;
   font-family: 'Brush Script MT', cursive;
-  margin-left: 3px;
+  margin-left: 8px;
+  margin-top: 5px;
 }
 
 
@@ -57,7 +58,7 @@ nav {
 
 
 p {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 a {
@@ -215,6 +216,10 @@ td {
 
   header {
     min-height: 20vh;
+  }
+
+  #logo {
+    margin-left: 3px;
   }
 
   main {
